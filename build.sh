@@ -2,7 +2,7 @@
 #
 #
 
-RELEASE_VERSION=
+RELEASE_VERSION=1.0.48-udemy1
 buildpath=
 
 function setuptree() {
