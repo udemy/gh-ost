@@ -1,6 +1,5 @@
 package packet
 
-import "C"
 import (
 	"bytes"
 	"io"
