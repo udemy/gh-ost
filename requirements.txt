@@ -1,0 +1,3 @@
+# Check out source into $(GOROOT)/github.com/github/gh-ost
+brew install ruby fpm
+sudo gem install --no-ri --no-rdoc fpm
